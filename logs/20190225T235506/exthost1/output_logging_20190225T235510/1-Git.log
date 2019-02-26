@@ -2829,3 +2829,70 @@ Use '--' to separate paths from revisions, like this:
 'git <command> [<revision>...] -- [<file>...]'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git show :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+error: No upstream configured for branch 'feature'
+error: No upstream configured for branch 'feature'
+fatal: ambiguous argument 'feature@{u}': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+error: No upstream configured for branch 'feature'
+error: No upstream configured for branch 'feature'
+fatal: ambiguous argument 'feature@{u}': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+error: No upstream configured for branch 'feature'
+error: No upstream configured for branch 'feature'
+fatal: ambiguous argument 'feature@{u}': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+error: No upstream configured for branch 'feature'
+error: No upstream configured for branch 'feature'
+fatal: ambiguous argument 'feature@{u}': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+error: No upstream configured for branch 'feature'
+error: No upstream configured for branch 'feature'
+fatal: ambiguous argument 'feature@{u}': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature
+> git rev-parse --symbolic-full-name feature@{u}
+error: No upstream configured for branch 'feature'
+error: No upstream configured for branch 'feature'
+fatal: ambiguous argument 'feature@{u}': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
