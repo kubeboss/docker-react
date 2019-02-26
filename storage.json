@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "7c77e3ca4b964a676b14d47a7d35988bd47715db39511b3772ad4712467d0b7c",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/root/frontend",
+                "external": "file:///root/frontend",
+                "path": "/root/frontend",
+                "scheme": "file"
+            },
+            "backupPath": "/root/frontend/Backups/33fd82aa2e16ed438cea4365d7b9b705",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 28,
+                "width": 1672,
+                "height": 791
+            }
+        }
+    },
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///root/frontend"
+        ],
+        "files2": []
+    }
+}
