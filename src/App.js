@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            im kuber!
+            This is a test application made with docker!!
           </p>
           <a
             className="App-link"
